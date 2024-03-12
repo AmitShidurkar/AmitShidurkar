@@ -1,3 +1,4 @@
+![logo](https://github.com/AmitShidurkar/AmitShidurkar/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Amit Shidurkar</h1>
 <h3 align="center">A passionate front-end developer from Pune, India</h3>
 <img align="right" alt="Coding image" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpxbjRmMTA5eGUyYjBlem1oM2txbTl2NDIzejRwcnlqZ2Z5aHpkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
